@@ -19,8 +19,8 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 ### リポジトリの作成
 ```
-git clone https://github.com/takalabo/HandyRL-SimpleTask.git
-cd HandyRL-SimpleTask
+git clone https://github.com/mono610/deep-reinforcement-learning.git
+cd deep-reinforcement-learning
 ```
 
 ### 仮想環境の作成
