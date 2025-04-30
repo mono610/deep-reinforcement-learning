@@ -1,11 +1,11 @@
 # 深層強化学習の実装
 
 深層強化学習の基本的なアルゴリズムを実装するリポジトリです．<br>
-実装中です :construction:
+:construction: 実装中です :construction:
 
 
 ## 実行環境の準備
-環境は uv で管理します．uv の詳細については [公式ドキュメント](https://docs.astral.sh/uv/guides/install-python/) や [GitHub](https://github.com/astral-sh/uv) をご確認ください．
+環境は uv で管理しています．uv の詳細については [公式ドキュメント](https://docs.astral.sh/uv/guides/install-python/) や [GitHub](https://github.com/astral-sh/uv) をご確認ください．
 
 ### uv のインストール
 #### macOS, Linux
