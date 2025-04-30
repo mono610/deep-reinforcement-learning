@@ -1,0 +1,12 @@
+env:
+    name: 'CartPole-v1'
+    max_steps: 500
+
+train:
+    episodes: 300
+    batch_size: 32
+    learning_rate: 0.001
+    gamma: 0.99
+
+model:
+    hidden_dim: 128
