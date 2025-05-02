@@ -3,11 +3,12 @@
 深層強化学習の基本的なアルゴリズムを実装するリポジトリです．<br>
 :construction: 実装中です :construction:
 
-
 ## 実行環境の準備
-環境は uv で管理しています．uv の詳細については [公式ドキュメント](https://docs.astral.sh/uv/guides/install-python/) や [GitHub](https://github.com/astral-sh/uv) をご確認ください．
+環境は uv で管理しています．uv の詳細については [公式ドキュメント](https://docs.astral.sh/uv/guides/install-python/) や [GitHub](https://github.com/astral-sh/uv) をご確認ください．<br>
+uv が入っていない方は以下でインストールしてください．
+<details>
+<summary> uv のインストール </summary>
 
-### uv のインストール
 #### macOS, Linux
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -16,6 +17,8 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
+
+</details>
 
 ### リポジトリの作成
 ```
